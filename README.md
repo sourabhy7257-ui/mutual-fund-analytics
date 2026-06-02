@@ -34,3 +34,21 @@ notebooks/
 sql/
 dashboard/
 reports/
+## Data Exploration Summary
+
+### Unique Categories
+- Equity
+- Debt
+
+### Unique Risk Categories
+- Low
+- Moderate
+- Moderately High
+- High
+- Very High
+
+### Data Quality Checks
+- No missing values in date columns
+- No missing values in NAV columns
+- Numeric fields validated
+- Historical NAV data loaded successfully
