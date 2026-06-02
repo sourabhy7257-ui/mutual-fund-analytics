@@ -53,4 +53,4 @@ reports/
 - No missing values in date columns
 - No missing values in NAV columns
 - Numeric fields validated
-- Historical NAV data loaded successfully
+- Historical NAV data loaded and validated successfully
