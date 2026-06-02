@@ -34,7 +34,7 @@ notebooks/
 sql/
 dashboard/
 reports/
-'''
+```
 
 ## Data Exploration Summary
 
